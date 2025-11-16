@@ -54,3 +54,9 @@ But confidence intervals heavily overlap.
 
 ## 📂 Project Structure  
 ...
+
+git clone https://github.com/vikysag/walmart-blackfriday-analysis.git
+cd walmart-blackfriday-analysis
+
+
+pip install pandas numpy scipy matplotlib seaborn
