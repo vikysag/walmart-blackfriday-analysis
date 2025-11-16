@@ -50,3 +50,7 @@ Purchase amount tends to increase slightly with age.
 
 But confidence intervals heavily overlap.
 ➡️ Age has a mild upward trend but is not strong enough to be statistically conclusive.
+
+
+## 📂 Project Structure  
+...
